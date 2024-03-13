@@ -9,7 +9,6 @@ import java.util.List;
 
 public class Login {
         public static void main(String[] args) throws InterruptedException {
-            // TODO Auto-generated method stub
             WebDriverManager.edgedriver().setup();
             WebDriver driver=new EdgeDriver();
             driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
