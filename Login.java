@@ -7,6 +7,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import java.time.Duration;
 import java.util.List;
 
+//Login.java
 public class Login {
         public static void main(String[] args) throws InterruptedException {
             WebDriverManager.edgedriver().setup();
