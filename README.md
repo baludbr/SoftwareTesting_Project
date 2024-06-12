@@ -1,1 +1,1 @@
-# SoftwareTesting_Project
+EPAM Project
